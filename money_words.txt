@@ -1,0 +1,17 @@
+bills
+cash
+checks
+fund
+payments
+wage
+notes
+bucks
+chips
+coin
+coinage
+funds
+gold
+specie
+bank
+currency
+ledger
